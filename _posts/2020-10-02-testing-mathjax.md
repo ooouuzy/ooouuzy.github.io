@@ -17,7 +17,7 @@ date: 2021-10-25 15:32 +0800
 主题这里，我们使用此方法创建博客，只能使用jekyll主题的博客。
 ##### 在这里面可以选择自己喜欢的博客 [http://jekyllthemes.org/](http://jekyllthemes.org/)  
 ![enter description here](./images/1635143783753.png)
-##### 选择自己喜欢的主题，下载 http://jekyllthemes.org/themes/atlas/
+##### 选择自己喜欢的主题，下载 [http://jekyllthemes.org/themes/atlas/](http://jekyllthemes.org/themes/atlas/)
 ![enter description here](./images/1635143930570.png)
 #### 3、修改主题配置，这里可以对主题进行定制，需要掌握html基本语法
 ##### 将下载好的压缩包进行解压，并修改_config.yml配置文件
