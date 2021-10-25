@@ -15,6 +15,6 @@ date: 2021-10-25 15:32 +0800
 
 #### 2、挑选主题
 主题这里，我们使用此方法创建博客，只能使用jekyll主题的博客。
-**在这里面可以选择自己喜欢的博客 ** [http://jekyllthemes.org/](http://jekyllthemes.org/)  **
+##### 在这里面可以选择自己喜欢的博客 [http://jekyllthemes.org/](http://jekyllthemes.org/)  
 ![enter description here](./images/1635143783753.png)
-**选择我们喜欢的主题**
+##### 选择自己喜欢的主题
