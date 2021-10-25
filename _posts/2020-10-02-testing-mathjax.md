@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Testing MathJax
+title: 使用githup创建个人博客（初见）
 tags: mathjax
 math: true
-date: 2020-10-02 15:32 +0800
+date: 2021-10-25 15:32 +0800
 ---
 
